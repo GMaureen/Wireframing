@@ -42,4 +42,32 @@ Determines where text, buttons, and images appear on the page.
 Represents the interactive parts of the interface.
 **Example:** Adding clickable buttons, forms, and search bars in the wireframe shows how users will interact with the system.
 
+------------
+
+## Types of Wireframes
+
+Wireframes come in two main types — **Low-Fidelity** and **High-Fidelity** — depending on how detailed they are and when they’re used in the design process.
+
+### Low-Fidelity Wireframes
+Low-fidelity (low-fi) wireframes are simple sketches or digital outlines that focus on layout and flow rather than design details.
+They help teams quickly test ideas and make fast changes.
+
+**Example:** A hand-drawn sketch showing boxes for images and lines for text.
+
+**Used When:**
+- In the early stages of design
+- To brainstorm different layout ideas
+- When you want quick feedback from clients or team members
+
+### High-Fidelity Wireframes
+High-fidelity (high-fi) wireframes are detailed, polished, and closely resemble the final design.
+They include real text, images, spacing, and sometimes color or clickable elements.
+
+**Example:** A Figma wireframe showing the actual buttons, fonts, and layout used in the final app.
+
+**Used When:**
+- In later stages of design
+- To finalize the layout before coding begins
+- To present realistic prototypes to stakeholders
+
 
