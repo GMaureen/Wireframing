@@ -97,4 +97,16 @@ Wireframing offers several benefits that guide the software development process:
 **Why Figma is Recommended:**
 Figma is widely used because it allows multiple team members to work on the same wireframe simultaneously, provides an intuitive interface, and integrates well with other design and development tools.
 
+------------
+
+## Wireframing in Practice
+
+**Scenario:** A team was designing a new e-commerce website. During the wireframing phase, they realized that the checkout flow was confusing — users might abandon their cart before completing the purchase.
+
+**Resolution:** By testing the wireframe with sample users, the team identified that the “Proceed to Payment” button was not prominent enough. They redesigned the flow to make it clearer and more intuitive.
+
+**Impact:** After implementing the changes, the final product had a smoother checkout process, reducing cart abandonment and improving the overall user experience.
+
+**Conclusion:** Wireframing ensures that designs are user-friendly and functional. It helps teams anticipate problems, streamline communication, and build products that meet user expectations efficiently.
+
 
