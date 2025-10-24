@@ -70,4 +70,18 @@ They include real text, images, spacing, and sometimes color or clickable elemen
 - To finalize the layout before coding begins
 - To present realistic prototypes to stakeholders
 
+- ------------
+
+## Wireframing Tools
+
+There are many tools available to create wireframes, ranging from simple sketching apps to advanced digital design platforms. Some popular wireframing tools include:
+
+- **Figma**: A web-based design tool that allows collaborative wireframing and prototyping. It supports real-time collaboration, making it easy for teams to work together. Features like drag-and-drop components, grids, and reusable design elements make Figma ideal for creating both low-fidelity and high-fidelity wireframes.
+- **Sketch**: A Mac-based vector design tool often used for wireframes and UI design.
+- **Adobe XD**: A digital design tool for wireframing, prototyping, and interactive design.
+- **Balsamiq**: Focuses on low-fidelity wireframes, great for quickly sketching ideas.
+
+**Why Figma is Recommended:**
+Figma is widely used because it allows multiple team members to work on the same wireframe simultaneously, provides an intuitive interface, and integrates well with other design and development tools.
+
 
